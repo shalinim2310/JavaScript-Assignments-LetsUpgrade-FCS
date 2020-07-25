@@ -1,0 +1,31 @@
+.black,button{
+    background-color:black;
+    color: whitesmoke;
+    
+}
+
+
+body{
+    text-align: center;
+}
+.white{
+    background-color:whitesmoke;
+    color: black;
+
+}
+
+button{
+    margin-top: 20px;
+    font-size: medium;
+    font-family: cursive;
+    border-radius: 10%;
+}
+
+#time{
+    color:red;
+   
+   
+    font-weight:700;
+    padding:1px 5px;
+}
+
